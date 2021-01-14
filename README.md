@@ -1,6 +1,5 @@
 # 后台管理系统
 
-> A Vue.js project
 > 配合shop_manage食用
 
 
