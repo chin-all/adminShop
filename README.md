@@ -1,7 +1,6 @@
 # 后台管理系统
 
-> 配合shop_manage食用
-
+> 配合[shop_manage](https://github.com/chin-all/shop_manage)食用
 
 ## Build Setup
 
