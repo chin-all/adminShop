@@ -1,4 +1,4 @@
-# 后台管理系统
+# 商城后台管理系统（界面）
 
 > 配合[shop_manage](https://github.com/chin-all/shop_manage)食用
 
